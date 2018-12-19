@@ -44,4 +44,3 @@ class Test
      end
   end
 end
-
